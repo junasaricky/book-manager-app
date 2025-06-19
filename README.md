@@ -4,20 +4,20 @@ A full-stack CRUD web application for managing a list of books. Built with **Ang
 
 ##  Live Demo
 
- [https://book-manager-app.onrender.com](https://book-manager-app.onrender.com)
+ [https://book-manager-app-owym.onrender.com/](https://book-manager-app-owym.onrender.com/)
 
 ---
 
 ##  Features
 
- Add a new book  
- View list of books with pagination  
- Edit existing book info  
- Delete a book  
- Search books by title or author  
- Integrated with MySQL database (hosted online)  
- Fully responsive UI with Angular  
- REST API backend with Spring Boot  
+ - Add a new book  
+ - View list of books with pagination  
+ - Edit existing book info  
+ - Delete a book  
+ - Search books by title or author  
+ - Integrated with MySQL database (hosted online)  
+ - Fully responsive UI with Angular  
+ - REST API backend with Spring Boot  
 
 ---
 
@@ -92,6 +92,6 @@ This app is deployed to **Render** using **Docker** and **online MySQL**.
 **Ricky Junasa**  
 📍 Philippines  
 💻 Passionate about building full-stack projects  
-📧 [junasaricky@gmail.com](mailto:junasaricky@gmail.com)  
+📧 [junasa.ricky@gmail.com](mailto:junasa.ricky@gmail.com)  
 🔗 [GitHub](https://github.com/junasaricky)
 
